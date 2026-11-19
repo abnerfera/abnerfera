@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e222a,100:282c34&height=170&section=header&text=Ábner%20Pinheiro&fontSize=40&fontColor=61afef&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20|%20PHP%20•%20Java%20•%20SQL%20•%20JavaScript&descAlignY=58&descSize=15&descColor=abb2bf" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e222a,100:282c34&height=175&section=header&text=Ábner%20Pinheiro&fontSize=40&fontColor=61afef&animation=fadeIn&fontAlignY=36&desc=Engenheiro%20de%20Software%20|%20PHP,%20Java%20%26%20Cloud%20|%20Sistemas%20ERP%20%26%20Fintech&descAlignY=58&descSize=14&descColor=abb2bf" width="100%" />
 </div>
 
 <p align="center">
-  Desenvolvedor de Software com experiência prática na construção, manutenção e modernização de <strong>sistemas ERP, PDV e rotinas financeiras/fiscais</strong>. Focado em código limpo, performance em banco de dados e entregas de ponta a ponta.
+  Engenheiro de Software com sólida trajetória no ecossistema de <strong>soluções ERP corporativas, frentes de caixa (PDV) e plataformas financeiras de missão crítica</strong>. Especialista na modernização de arquiteturas legadas, migração orientada a APIs RESTful e otimização de alta volumetria de dados transacionais, aplicando <strong>Clean Architecture, DDD e SOLID</strong>.
 </p>
 
 <p align="center">
@@ -13,46 +13,45 @@
   <a href="mailto:abnerernesto@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/abnerernesto_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 ---
 
-### Tecnologias que utilizo no dia a dia
+### Stack Tecnológica
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <p><strong>Linguagens & Frameworks</strong></p>
+  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <br/>
+
+  <p><strong>Bancos de Dados, Arquitetura & DevOps</strong></p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/REST_APIs_&_EDA-282C34?style=for-the-badge&logo=fastapi&logoColor=61AFEF" alt="APIs e Eventos" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/REST_APIs-282C34?style=for-the-badge&logo=fastapi&logoColor=61AFEF" alt="REST APIs" />
 </div>
 
 ---
 
-### O que eu construo e resolvo
+### Impacto & Engenharia na Prática
 
-* **Sistemas Corporativos (ERP & PDV):** Desenvolvimento de módulos completos de gestão de encomendas, controle bancário, gestão eletrônica de documentos (GED) e regras fiscais/tributárias (como validação de CNPJ alfanumérico).
-* **Automação & Dados:** Criação de agendadores automáticos de relatórios gerenciais com recorrência, filtros dinâmicos e refatoração de queries SQL de alto volume.
-* **Arquitetura Web:** Integração de APIs RESTful, aplicações containerizadas com Docker e interfaces dinâmicas.
+* **Automação & Processamento Assíncrono:** Liderança técnica na concepção e deploy do módulo de *Agendamento Automático de Relatórios* analíticos em segundo plano, com filtros dinâmicos e disparo recorrente por e-mail.
+* **SQL Tuning & Alta Volumetria:** Refatoração estrutural de mais de **20 relatórios transacionais** de alta carga e otimização de infraestrutura de **Gestão Eletrônica de Documentos (GED)** sustentando milhões de arquivos digitais e processos.
+* **Integração ERP & PDV (PHP & Java):** Desenvolvimento do módulo *Gestão de Encomendas* integrado ao PDV Desktop em Java com sincronização em tempo real ao backoffice.
+* **Core Financeiro & Compliance:** Implementação de rotinas de arrecadação em lote, emissão de boletos, conciliação bancária e conformidade fiscal/contábil.
 
 ---
 
-### Atividade recente no GitHub
+### Atividade Recente no GitHub
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -67,5 +66,5 @@
 </div>
 
 <p align="center">
-  <em>"Apaixonado por tecnologia, resolvendo problemas reais todos os dias — com mentalidade de dono e visão de futuro CEO."</em>
+  <em>Graduado em Análise e Desenvolvimento de Sistemas (Estácio) • Focado em arquitetura escalável, código limpo e resolução de problemas reais.</em>
 </p>
