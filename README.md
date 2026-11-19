@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ábner-pinheiro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abnerernesto@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/abnerernesto_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -62,7 +62,7 @@
 ### Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=abnerfera&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" alt="Ábner GitHub stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=abnerfera&show_icons=true&theme=onedark&hide_border=true" alt="Ábner GitHub stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerfera&layout=compact&theme=onedark&langs_count=6&hide_border=true" alt="Top Langs" />
 </div>
 
