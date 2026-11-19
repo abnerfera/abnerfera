@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e222a,100:282c34&height=175&section=header&text=%C3%81bner%20Pinheiro&fontSize=40&fontColor=61afef&animation=fadeIn&fontAlignY=36&desc=Engenheiro%20de%20Software%20%7C%20PHP%2C%20Java%20%26%20Cloud%20%7C%20Sistemas%20ERP%20%26%20Fintech&descAlignY=58&descSize=14&descColor=abb2bf" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=61AFEF&center=true&vCenter=true&width=780&lines=%C3%81bner+Pinheiro+%7C+Engenheiro+de+Software;PHP+8+%E2%80%A2+Java+%E2%80%A2+SQL+Tuning+%E2%80%A2+Cloud;Sistemas+ERP%2C+PDV+%26+Plataformas+Financeiras" alt="Typing SVG" />
 </div>
 
 <p align="center">
